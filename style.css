@@ -1,4 +1,4 @@
-﻿main {
+main {
     font-family: Georgia;
     color: #444;
     text-align: center
@@ -19,4 +19,16 @@ p {
 }
 a {
     color: #990003
+}
+ul, li {
+    text-align: center;
+    padding: 5px 50px;
+}
+summary {
+    border: inset #666;
+}
+footer {
+    padding: 0.5em;
+    font-size: 100%;
+    text-align: center;
 }
